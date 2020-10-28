@@ -116,7 +116,6 @@ const data = [
 
 // gives each item the family structure
     article.appendChild(title);
-    article.appendChild(title);    
     article.appendChild(date)
     article.appendChild(p1);
     article.appendChild(p2);
